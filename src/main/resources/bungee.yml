@@ -1,0 +1,3 @@
+name: UnrealFriends
+version: '${project.version}'
+main: it.mauro.unrealfriends.Main
